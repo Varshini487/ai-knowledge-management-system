@@ -1,0 +1,8 @@
+streamlit
+langchain
+sentence-transformers
+faiss-cpu
+postgresql-python
+redis
+openai
+spacy
